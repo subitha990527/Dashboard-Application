@@ -1,20 +1,52 @@
-<<<<<<< HEAD
-# React + Vite
+# Dashly - Dashboard Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern Task Management Dashboard built with React.js that helps users organize, track, and monitor project tasks efficiently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+### 📊 Dashboard Overview
+- Display total tasks count
+- Pending tasks statistics
+- Completed tasks statistics
+- Overdue tasks statistics
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✅ Task Management
+- Create new tasks
+- View recent tasks
+- Search tasks by name
+- Filter tasks by status
+- Track task priorities (High, Medium, Low)
+- Due date management
 
-## Expanding the ESLint configuration
+### 📈 Analytics
+- Visual task summary chart
+- Status-based task distribution
+- Real-time dashboard updates
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Dashboard-Application
->>>>>>> 13ea3aa4e8dbdccd41953ac84e9a7bb125b48879
+### 🎨 User Interface
+- Responsive design
+- Modern dashboard layout
+- Sidebar navigation
+- Notification section
+- Dark mode support
+- Clean and intuitive user experience
+
+---
+
+## 🛠️ Technologies Used
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- CSS3
+- HTML5
+
+### Libraries
+- React Hooks
+- React Router DOM
+- Lucide React
+- Recharts / Chart.js
+
+---
