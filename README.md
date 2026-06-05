@@ -43,10 +43,4 @@ A modern Task Management Dashboard built with React.js that helps users organize
 - CSS3
 - HTML5
 
-### Libraries
-- React Hooks
-- React Router DOM
-- Lucide React
-- Recharts / Chart.js
-
 ---
